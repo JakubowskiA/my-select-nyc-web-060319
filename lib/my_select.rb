@@ -5,5 +5,5 @@ while i<collection.size
   new << yield(collection[i])
 i += 1
 end
-
+new
 end
